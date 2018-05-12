@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31617'
     url: http://www.gutenberg.org/2009/agents/31617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25855#Stray-Studies-from-England-and-Italy
 gutenberg_issued: '2008-06-20'
 gutenberg_type: Text
 identifiers:
